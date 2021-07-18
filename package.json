@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Bobchiang/puppeteer_start#readme",
   "dependencies": {
+    "nodemailer": "^6.6.3",
     "puppeteer": "^10.1.0"
   }
 }
